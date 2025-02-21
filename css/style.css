@@ -9,15 +9,34 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(133, 179, 28)
 }
 .header_aqua{
     display: flex;
-   
-
-}
-.header_aqua p{
+    width: 304px;
+    height:96px;
     font-family:Roboto Condensed;
     font-size: 48px;
     color: var(--color-1);
+    position: relative;
+    align-items:center;
+    padding-top: 31px;
+}
+.text{
+    
+    position: absolute;
+    padding-left: 33px;
+
+}
+.awa{
+    position: absolute;
+    padding-left: 154px;
+    padding-top: 8px;
+}
+.header_select{
+    display: flex;
+    background-color: var(--color-1);
+    font-size: 24px;
+    font-family:Roboto Condensed;
+    text-decoration: none;
+    color:var(--color-2);
 }
