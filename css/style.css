@@ -1,0 +1,23 @@
+@import url(variables.css);
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(133, 179, 28)
+}
+.header_aqua{
+    display: flex;
+   
+
+}
+.header_aqua p{
+    font-family:Roboto Condensed;
+    font-size: 48px;
+    color: var(--color-1);
+}

@@ -1,0 +1,9 @@
+:root{
+    --color-1: rgba(231, 231, 231, 1);
+    --color-2: #000000;
+    --color-3: #FFD600;
+}
+@font-face {
+    font-family:Roboto Condensed;
+    src: url(/storage/font/RobotoCondensed-VariableFont_wght.ttf);
+}
