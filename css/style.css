@@ -34,9 +34,18 @@ header{
 }
 .header_select{
     display: flex;
-    background-color: var(--color-1);
     font-size: 24px;
     font-family:Roboto Condensed;
     text-decoration: none;
     color:var(--color-2);
+    padding-top: 68px;
+    gap: 94px;
+    padding-right: 112px;
+
+}
+.header_style{
+    display: flex;
+    padding-right: 39px;
+    padding-top: 51px;
+    gap:27px;
 }
